@@ -4,4 +4,4 @@ It was Sunday night and I felt like trying to make some SVGs becuase its not som
 
 ---
 
-<img src="https://raw.githubusercontent.com/shaun1x/retro-svg/master/svg/ie.svg" width="350" title="IE">
+<img src="https://raw.githubusercontent.com/shaun1x/retro-svg/master/svg/ie.svg?sanitize=true" width="350" title="IE">
