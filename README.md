@@ -5,3 +5,5 @@ It was Sunday night and I felt like trying to make some SVGs becuase its not som
 ---
 
 ![Alt text](./svg/ie.svg)
+![Alt text](./svg/windows.svg)
+![Alt text](./svg/directory.svg)
